@@ -158,7 +158,7 @@ include_once 'header.inc.php';
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img src="img/team/casper.jpg" class="img-responsive img-circle" alt="">
-                        <h4>Chris Ghenda</h4>
+                        <h4>Chris G.</h4>
                         <p class="text-muted">Développeur</p>
                         <ul class="list-inline social-buttons">
                             <li><a href="#"><i class="fa fa-twitter"></i></a>
